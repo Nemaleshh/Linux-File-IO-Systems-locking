@@ -1,5 +1,4 @@
-# Name: Ponguru Aasrith Sairam
-# Reg. No: 212223240116
+
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 # AIM:
